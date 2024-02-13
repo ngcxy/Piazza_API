@@ -1,0 +1,105 @@
+note = {
+    'history_size': 4,
+    'folders': ['hw4', 'hw5'],
+    'nr': 73, 'data': {'embed_links': []},
+    'created': '2023-09-20T03:36:59Z',
+    'bucket_order': 3,
+    'no_answer_followup': 0,
+    'change_log': [{'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'data': 'lmr70e8v8016xi', 'v': 'all', 'type': 'create', 'when': '2023-09-20T03:36:59Z'}, {'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'data': 'lmr70s57utfcx', 'v': 'all', 'type': 'update', 'when': '2023-09-20T03:37:17Z'}, {'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'data': 'lmr731dbyxc5qf', 'v': 'all', 'type': 'update', 'when': '2023-09-20T03:39:03Z'}, {'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'data': 'lmr75j1u1fg4fn', 'v': 'all', 'type': 'update', 'when': '2023-09-20T03:40:59Z'}],
+    'bucket_name': 'Today',
+    'history': [{'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'subject': '[Important] Please Let Me Know Your Teammates', 'created': '2023-09-20T03:40:59Z', 'content': '<md>Hello everyone,\n\nTo grade your homework, we have to know your team members. Please fill your team members in the following spreadsheet so that we can grade your labs from the lab4. You are responsible for this. Please do it soon. Thanks.\n\n[https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing)\n\n**The grading for Lab4 will start from the following Friday, so please make sure you have filled in the information correctly before that.**</md>'}, {'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'subject': '[Important] Please Let Me Know Your Teammates', 'created': '2023-09-20T03:39:03Z', 'content': '<md>Hello everyone,\n\nTo grade your homework, we have to know your team members. Please fill your team members in the following spreadsheet so that we can grade your labs from the lab4. You are responsible for this. Please do it soon. Thanks.\n\n[https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing)\n\n**The grading for HW1 will start from the following Friday, so please make sure you have filled in the information correctly before that.**</md>'}, {'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'subject': '[Important] Please Let Me Know Your Teammates', 'created': '2023-09-20T03:37:17Z', 'content': '<md>Hello everyone,\n\nTo grade your homework, we have to know your team members. Please fill your team members in the following spreadsheet so that we can grade your labs from the lab4. You are responsible for this. Please do it soon. Thanks.\n\n[https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing)\n\nThe grading for HW1 will start from the following Friday, so please make sure you have filled in the information correctly before that.</md>'}, {'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'subject': '[Important] Please Let Me Know Your Teammates', 'created': '2023-09-20T03:36:59Z', 'content': '<md>Hello everyone,\n\nTo grade your homework, we have to know your team members. Please fill your team members in the following spreadsheet so that we can grade your labs from the lab4. You are responsible for this. Please do it soon. Thanks.\n\n(https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing)[https://docs.google.com/spreadsheets/d/1ovjrKL7SV8YEAuwyerCG0kh_c8wXL2vQXT_zNze5peA/edit?usp=sharing]\n\nThe grading for HW1 will start from the following Friday, so please make sure you have filled in the information correctly before that.</md>'}],
+    'type': 'note',
+    'tags': ['hw4', 'hw5', 'instructor-note'],
+    'tag_good': [],
+    'unique_views': 40,
+    'children': [],
+    'tag_good_arr': [],
+    'id': 'lmr70e8rwbq6xh',
+    'config': {'editor': 'md', 'is_announcement': 1, 'bypass_email': 1, 'has_emails_sent': 1},
+    'status': 'active',
+    'drafts': None,
+    'request_instructor': 0,
+    'request_instructor_me': False,
+    'bookmarked': 2,
+    'num_favorites': 0,
+    'my_favorite': False,
+    'is_bookmarked': False,
+    'is_tag_good': False,
+    'q_edits': [],
+    'i_edits': [],
+    's_edits': [],
+    't': 1707712171266,
+    'default_anonymity': 'no'
+}
+
+question = {
+    'history_size': 2,
+    'folders': ['logistics'],
+    'nr': 132,
+    'data': {'embed_links': []},
+    'created': '2023-12-11T23:48:09Z',
+    'bucket_order': 3,
+    'no_answer_followup': 0,
+    'change_log': [{'anon': 'full', 'data': 'lq1kdtgsu6s55j', 'v': 'all', 'type': 'create', 'when': '2023-12-11T23:48:09Z', 'uid_a': 'a_0'}, {'anon': 'full', 'data': 'lq1kelwm7yv78g', 'v': 'all', 'type': 'update', 'when': '2023-12-11T23:48:46Z', 'uid_a': 'a_0'}, {'anon': 'no', 'uid': 'l7dlqsh6mcb1w1', 'data': 'lq1kqi5pzde4m8', 'to': 'lq1kdtgpzvg55i', 'type': 's_answer', 'when': '2023-12-11T23:58:01Z'}, {'anon': 'no', 'uid': 'l7dlqsh6mcb1w1', 'data': 'lq1krvm6ccxd6', 'type': 's_answer_update', 'when': '2023-12-11T23:59:05Z'}, {'anon': 'full', 'to': 'lq1kdtgpzvg55i', 'type': 'followup', 'when': '2023-12-12T00:02:13Z', 'cid': 'lq1kvvzwj1r1ke', 'uid_a': 'a_0'}, {'anon': 'full', 'to': 'lq1kdtgpzvg55i', 'type': 'feedback', 'when': '2023-12-12T00:03:44Z', 'cid': 'lq1kxuwskjb6np', 'uid_a': 'a_0'}, {'anon': 'no', 'uid': 'kyd81nfqg5f76c', 'to': 'lq1kdtgpzvg55i', 'type': 'feedback', 'when': '2023-12-12T17:35:58Z', 'cid': 'lq2mj0utdpgo9'}],
+    'bucket_name': 'Today',
+    'history': [{'anon': 'full', 'uid_a': 'a_0', 'subject': 'Correct room to return the gateway', 'created': '2023-12-11T23:48:46Z', 'content': '<p>Hi, I&#39;m wondering if this is the correct place to return the gateway?</p>\n<p><img src="/redirect/s3?bucket=uploads&amp;prefix=paste%2Fky7yf4kejiayz%2F5915de890feef2d0c5e63d0df8a9bf94288bb0afd4be04a52321c2014dec95e0%2F2302af54634af427a94e47a9f260ece.jpg" alt="2302af54634af427a94e47a9f260ece.jpgNaN" height="480" /><br />Or if I want to return the gateway to the University, where do I go to?<br />Much appreciated!</p>'}, {'anon': 'full', 'uid_a': 'a_0', 'subject': 'Correct room to return the gateway', 'created': '2023-12-11T23:48:09Z', 'content': '<p>Hi, I&#39;m wondering if this is the correct place to return the gateway?</p>\n<p><img src="/redirect/s3?bucket=uploads&amp;prefix=paste%2Fky7yf4kejiayz%2F5915de890feef2d0c5e63d0df8a9bf94288bb0afd4be04a52321c2014dec95e0%2F2302af54634af427a94e47a9f260ece.jpg" alt="2302af54634af427a94e47a9f260ece.jpgNaN" height="480" /><br />Or if I want to return the gateway to the University, where do I go to?</p>'}],
+    'type': 'question',
+    'tags': ['logistics', 'student'],
+    'tag_good': [],
+    'unique_views': 25,
+    'children': [
+        {
+            'history_size': 2,
+            'folders': [],
+            'data': {'embed_links': []},
+            'created': '2023-12-11T23:58:01Z',
+            'bucket_order': 3,
+            'tag_endorse': [{'role': 'student', 'name': 'Haosong Liu', 'endorser': {}, 'admin': False, 'photo': None, 'id': 'ky7yf4kejiayz', 'photo_url': None, 'published': True, 'us': False, 'facebook_id': None}],
+            'bucket_name': 'Today',
+            'history': [{'anon': 'no', 'uid': 'l7dlqsh6mcb1w1', 'subject': '', 'created': '2023-12-11T23:59:05Z', 'content': 'The building should be PHE, but Professor Goodney seems not in his office this morning. You can try to return to CS front desk at SAL. But for returning at SAL, you may need to contact Professor Goodney first.'}, {'anon': 'no', 'uid': 'l7dlqsh6mcb1w1', 'subject': '', 'created': '2023-12-11T23:58:01Z', 'content': 'The building should be PHE, but Professor Goodney seems not in his office this morning. You can try to return to CS front desk at SAL. But for returning at SAL, you may need to contact Professor Goodney first.'}],
+            'type': 's_answer',
+            'tag_endorse_arr': ['ky7yf4kejiayz'],
+            'children': [],
+            'id': 'lq1kqi5msh54m7',
+            'config': {},
+            'is_tag_endorse': False
+        },
+        {
+            'anon': 'full',
+            'folders': [],
+            'data': {'embed_links': None},
+            'no_upvotes': 0,
+            'subject': 'So it it PHE 406? Will try tomorrow. Thanks a lot?', 'created': '2023-12-12T00:02:13Z', 'bucket_order': 3, 'bucket_name': 'Today', 'type': 'followup', 'tag_good': [], 'uid_a': 'a_0', 'children': [{'anon': 'full', 'folders': [], 'data': {'embed_links': None}, 'subject': 'I see, it&#39;s PHE 434, will try tomorrow.', 'created': '2023-12-12T00:03:44Z', 'bucket_order': 4, 'bucket_name': 'Yesterday', 'type': 'feedback', 'tag_good': [], 'uid_a': 'a_0', 'children': [], 'tag_good_arr': [], 'id': 'lq1kxuwskjb6np', 'd-bucket': 'Yesterday', 'updated': '2023-12-12T00:03:44Z', 'config': {'editor': 'rte'}}, {'anon': 'no', 'folders': [], 'data': {'embed_links': None}, 'subject': '<md>![image.png](/redirect/s3?bucket=uploads&prefix=paste%2Fkyd81nfqg5f76c%2F1840dd2a8d86c8105040ae1a086a07b6162eb43112bcd2423fcfdb43dee4e40c%2Fimage.png)</md>', 'created': '2023-12-12T17:35:58Z', 'bucket_order': 3, 'bucket_name': 'Today', 'type': 'feedback', 'tag_good': [], 'uid': 'kyd81nfqg5f76c', 'children': [], 'tag_good_arr': [], 'id': 'lq2mj0utdpgo9', 'updated': '2023-12-12T17:35:58Z', 'config': {'editor': 'md'}}], 'tag_good_arr': [], 'no_answer': 0, 'id': 'lq1kvvzwj1r1ke', 'updated': '2023-12-12T17:35:58Z', 'config': {'editor': 'rte'}}
+    ],
+    'tag_good_arr': [],
+    'no_answer': 0,
+    'id': 'lq1kdtgpzvg55i',
+    'config': {'editor': 'rte', 'has_emails_sent': 1},
+    'status': 'active',
+    'drafts': None,
+    'request_instructor': 0,
+    'request_instructor_me': False,
+    'bookmarked': 3,
+    'num_favorites': 0,
+    'my_favorite': False,
+    'is_bookmarked': False,
+    'is_tag_good': False,
+    'q_edits': [],
+    'i_edits': [],
+    's_edits': [],
+    't': 1707717849160,
+    'default_anonymity': 'no'
+}
+
+
+feed = {
+    'feed':
+        [
+            {
+                'fol': 'hw0|',
+                'm': 1705646402456,
+                'rq': 0,
+                'id': 'lrk6hz96cev482',
+                'unique_views': 41,
+                'score': 41.0, 'nid': 'lr5iignruf67h2', 'is_new': False, 'version': 16, 'bucket_name': 'Week 1/14 - 1/20', 'bucket_order': 10, 'has_i': True, 'folders': ['hw0'], 'nr': 21, 'main_version': 16, 'request_instructor': 0, 'log': [{'t': '2024-01-19T05:06:49Z', 'n': 'create'}, {'t': '2024-01-19T05:17:49Z', 'u': 'k5va0fyq1sbc', 'n': 'i_answer'}, {'t': '2024-01-19T05:19:07Z', 'u': 'k5va0fyq1sbc', 'n': 'i_answer_update'}, {'t': '2024-01-19T05:26:46Z', 'u': 'l6lb0xzcbug2y6', 'n': 'followup'}, {'t': '2024-01-19T05:45:06Z', 'n': 'feedback'}, {'t': '2024-01-19T05:53:09Z', 'u': 'k5va0fyq1sbc', 'n': 'feedback'}, {'t': '2024-01-19T05:57:05Z', 'u': 'lln4gz0jegy1kb', 'n': 'feedback'}, {'t': '2024-01-19T06:07:01Z', 'n': 'feedback'}, {'t': '2024-01-19T06:11:55Z', 'u': 'l6lb0xzcbug2y6', 'n': 'feedback'}, {'t': '2024-01-19T06:14:30Z', 'n': 'feedback'}, {'t': '2024-01-19T06:16:51Z', 'n': 'feedback'}, {'t': '2024-01-19T06:19:22Z', 'n': 'feedback'}, {'t': '2024-01-19T06:22:32Z', 'n': 'feedback'}, {'t': '2024-01-19T06:30:33Z', 'u': 'l6lb0xzcbug2y6', 'n': 'feedback'}, {'t': '2024-01-19T06:34:12Z', 'n': 'followup'}, {'t': '2024-01-19T06:39:46Z', 'u': 'k5va0fyq1sbc', 'n': 'feedback'}], 'subject': 'Issue with Displaying Colab Output on GitHub', 'no_answer_followup': 0, 'num_favorites': 0, 'type': 'question', 'tags': ['hw0', 'student'], 'gd_f': 0, 'content_snipet': 'Hi,\nI&#39;m encountering an issue when pushing my Colab notebook to GitHub. Despite following the steps, the output of m', 'view_adjust': 0, 'no_answer': 0, 'modified': '2024-01-19T06:40:02Z', 'updated': '2024-01-19T05:06:49Z', 'status': 'active'}, {'fol': 'hw0|', 'm': 1705289380884, 'rq': 0, 'id': 'lred703czlj208', 'unique_views': 42, 'score': 42.0, 'nid': 'lr5iignruf67h2', 'is_new': False, 'version': 2, 'bucket_name': 'Week 1/14 - 1/20', 'bucket_order': 10, 'folders': ['hw0'], 'nr': 17, 'main_version': 2, 'request_instructor': 0, 'log': [{'t': '2024-01-15T03:27:37Z', 'n': 'create'}, {'t': '2024-01-15T03:29:40Z', 'u': 'k5va0fyq1sbc', 'n': 'i_answer'}], 'subject': 'Do we have to run all blocks?', 'no_answer_followup': 0, 'type': 'question', 'gd_a': 1, 'content_snipet': 'If we are confident about python, do we need to run all blocks?', 'modified': '2024-01-15T03:29:40Z', 'has_i': True, 'num_favorites': 0, 'tags': ['hw0', 'student'], 'gd_f': 0, 'view_adjust': 0, 'no_answer': 0, 'updated': '2024-01-15T03:27:37Z', 'status': 'active'}, {'fol': 'hw0|', 'm': 1705200818959, 'rq': 0, 'id': 'lrcr79yv4k66q5', 'unique_views': 42, 'score': 42.0, 'nid': 'lr5iignruf67h2', 'is_new': False, 'version': 3, 'bucket_name': 'Week 1/14 - 1/20', 'bucket_order': 10, 'folders': ['hw0'], 'nr': 13, 'main_version': 3, 'request_instructor': 0, 'log': [{'t': '2024-01-14T00:24:12Z', 'u': 'k5va0fyq1sbc', 'n': 'create'}, {'t': '2024-01-14T00:25:25Z', 'u': 'k5va0fyq1sbc', 'n': 'update'}, {'t': '2024-01-14T02:53:38Z', 'u': 'k5va0fyq1sbc', 'n': 'update'}], 'subject': 'Homework assignment 0 has been posted', 'no_answer_followup': 0, 'num_favorites': 0, 'type': 'note', 'tags': ['hw0', 'instructor-note'], 'gd_f': 0, 'content_snipet': 'Please use the following link to accept your homework assignment 0:\xa0\nhttps://classroom.github.com/a/OKfEJ7cf\nYou can als', 'view_adjust': 0, 'modified': '2024-01-14T02:53:38Z', 'updated': '2024-01-14T00:24:12Z', 'status': 'active'}], 't': 1707792961975, 'more': False, 'sort': 'updated', 'live': {}}
+
