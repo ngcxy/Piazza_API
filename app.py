@@ -34,7 +34,7 @@ def login():
     try:
         a.login(email=email, password=password)
         print(f"{email} logged in!")
-        return jsonify(message='Login successful'), 200
+        return jsonify(message='Login successfully'), 200
     except AuthenticationError:
         return jsonify(message='Invalid credentials'), 401
 
