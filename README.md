@@ -7,7 +7,7 @@
 ### Endpoints
 
     
-- ### **POST** `/users/login`
+ - #### **POST** `/users/login`
 
 User login
 
@@ -21,7 +21,7 @@ User login
 ```
 
 
-- ### **GET** `/users/<email>/courses/all`
+ - #### **GET** `/users/<email>/courses/all`
     
 Get all course IDs of the user
 
@@ -35,7 +35,7 @@ Get all course IDs of the user
 ```
 
 
-- ### **GET** `/users/<email>/courses/<cid>/posts/all`
+ - #### **GET** `/users/<email>/courses/<cid>/posts/all`
 
 Get all posts of the course (wait about 1 min/50 posts)
 
@@ -93,27 +93,27 @@ If "type"=="note"
 *We use "id_c" as the "pid" for that post in most cases.*
 
 
-- ### **GET** `/users/<email>/courses/<cid>/posts/unread`
+ - #### **GET** `/users/<email>/courses/<cid>/posts/unread`
 
 Get all unread posts for the course.
 
 *Return: a list of posts (see above)*
 
 
-- ### **GET** `/users/<email>/courses/<cid>/folders/<fname>`
+ - #### **GET** `/users/<email>/courses/<cid>/folders/<fname>`
 
 Get all posts in a folder named "fname".
 
 *Return: a list of posts (see above)*
 
 
-- ### **GET** `/users/<email>/courses/<cid>/posts/<pid>`
+ - #### **GET** `/users/<email>/courses/<cid>/posts/<pid>`
 
 Get the post with a specific pid for the course.
 
 *Return: an object of one post (see above)*
 
-- ### **POST** `/users/<email>/courses/<cid>/posts/<pid>`
+ - #### **POST** `/users/<email>/courses/<cid>/posts/<pid>`
 
 Post a reply as "student answer" to one post.
 
