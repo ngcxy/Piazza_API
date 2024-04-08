@@ -118,4 +118,4 @@ def create_student_reply(email, cid, pid):
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5500)
