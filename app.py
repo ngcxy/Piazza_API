@@ -39,6 +39,18 @@ def login():
         return jsonify(message='Invalid credentials'), 401
 
 
+@app.route('/users/logout', methods=['POST'])
+def logout():
+    data = request.get_json()
+    email = data.get('email')
+    try:
+        a.logout(email=email)
+        print(f"{email} logged out!")
+        return jsonify(message='Logout successfully'), 200
+    except ValueError:
+        return jsonify(message='Invalid credentials'), 401
+
+
 @app.route('/users/<email>/courses/all')
 def all_course(email):
     # Get user course list
@@ -90,14 +102,17 @@ def one_post(email, cid, pid):
 
 
 @app.route('/users/<email>/courses/<cid>/posts/<pid>', methods=['POST'])
-def create_reply(email, cid, pid):
+def create_student_reply(email, cid, pid):
     if email in a.sessions:
         data = request.get_json()
         content = data.get('content')
         revision = int(data.get('revision', 0))
+        user_type = data.get('user_type', "i")
         bp = BeautifulPiazza(session=a.sessions[email])
-        bp.create_reply(cid, pid, content, revision)
-        return jsonify(message='Posted!'), 200
+        if bp.create_reply(cid, pid, content, revision, user_type) == 0:
+            return jsonify(message='Posted!'), 200
+        else:
+            return jsonify(message='Invalid Role!'), 401
     else:
         return jsonify(message='Invalid user'), 401
 

@@ -59,13 +59,19 @@ class BeautifulPiazza:
         feeds = course.get_filtered_feed(feed_filter=folder_filter)
         return self.feed_to_post(course, feeds)
 
-    def create_reply(self, cid, pid, content, revision=1):
+    def create_reply(self, cid, pid, content, revision=0, post_type="i"):
         course = self.p.network(cid)
         post = course.get_post(pid)
-        course.create_student_answer(post, content, revision)
+        try:
+            if post_type == "s":
+                course.create_student_answer(post, content, revision)
+            if post_type == "i":
+                course.create_instructor_answer(post, content, revision)
+        except RequestError:
+            return 1
         print(f"Posting... {content}")
         print("Posted!")
-        return
+        return 0
 
     ###################
     # Private Methods #

@@ -41,13 +41,7 @@ class AuthManager:
         # store the success session into list
         self.sessions[email] = session
 
-
-
-    #
-    #
-    # def get_first_question(posts):
-    #     for post in posts:
-    #         if post["type"] == "question":
-    #             return post_decorate(post)
-    #
-    #     return {}
+    def logout(self, email):
+        if email not in self.sessions:
+            raise ValueError(f"Could not find user {email}")
+        self.sessions.pop(email)
