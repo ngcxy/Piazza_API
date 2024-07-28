@@ -42,7 +42,7 @@ class BeautifulPiazza:
             except RequestError:
                 print("Post doesn't exist!")
                 continue
-            time.sleep(1)
+            time.sleep(2)
         return post_list
 
     def get_post_unread(self, cid):
